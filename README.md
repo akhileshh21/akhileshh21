@@ -10,6 +10,8 @@ I'm currently focused on building practical projects, strengthening my technical
 - 💬 **Working with:** Python, SQL, Power BI, Pandas, Scikit-learn, FastAPI, LLMs & RAG
 - 🧠 **Interested in:** Data-driven products, ML systems, AI Agents & intelligent applications
 - 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/akhileshpatil21)
+                         [Email](mailto:arpatil0001@gmail.com)
+
 
 ---
 
